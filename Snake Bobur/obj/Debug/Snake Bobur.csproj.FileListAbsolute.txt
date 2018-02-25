@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\bin\Debug\Snake Bobur.exe.config
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\bin\Debug\Snake Bobur.exe
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\bin\Debug\Snake Bobur.pdb
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\obj\Debug\Snake Bobur.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\obj\Debug\Snake Bobur.exe
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\obj\Debug\Snake Bobur.pdb
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Snake Bobur\bin\Debug\Level1.txt

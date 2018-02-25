@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\bin\Debug\Background.exe.config
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\bin\Debug\Background.exe
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\bin\Debug\Background.pdb
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\obj\Debug\Background.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\obj\Debug\Background.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\obj\Debug\Background.exe
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\obj\Debug\Background.pdb
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\bin\Debug\SnakeTex.txt
+C:\Users\Asus\Desktop\Tompik\reposes\snake\Background\bin\Debug\TextFile1.txt
