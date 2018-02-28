@@ -13,11 +13,11 @@ namespace Background
         static void Main(string[] args)
         {
             
-            Console.SetWindowSize(35, 35);
-            Console.SetBufferSize(35, 35);
+            Console.SetWindowSize(110, 40);
+            Console.SetBufferSize(110, 40);
             Console.SetCursorPosition(0, 1);
             Console.ForegroundColor = ConsoleColor.Magenta;
-            FileStream fs = new FileStream(@"TextFile1.txt", FileMode.Open, FileAccess.ReadWrite);
+            FileStream fs = new FileStream(@"SnakeTex.txt", FileMode.Open, FileAccess.ReadWrite);
             StreamReader sr = new StreamReader(fs);
             
                 string line;
